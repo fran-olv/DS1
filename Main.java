@@ -10,6 +10,6 @@ class Main {
    JOptionPane.showMessageDialog(null, "Acesso liberado"); 
   }else { 
      JOptionPane.showMessageDialog(null, "Login ou senha incorretos"); 
-     } // fim do if }//fim do main } // fim da classe 
+     }  
   }
 }
